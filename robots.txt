@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://churchesnearme.pages.dev/sitemap.xml
